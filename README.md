@@ -1,6 +1,19 @@
+### Hi there 👋, FKDEVELOPERS254
+#### Developer Mobile and Web Apps
+![Developer Mobile and Web Apps](https://user-images.githubusercontent.com/65674370/214688023-8d9824db-4066-44f6-be73-203157d1eaed.png)
 
-![github-header-image](https://user-images.githubusercontent.com/65674370/214688023-8d9824db-4066-44f6-be73-203157d1eaed.png)
-# TourAgencyWebsite
+Inquisitive, energetic computer science specialist skilled in leadership, with a strong foundation in math, logic, and cross-platform coding. Seeking to leverage solid skills in collaboration, communication, and development as a programmer
+
+Skills: SQL / PHP/ NODE JS / JS / HTML / CSS/FLUTTER
+
+- 🔭 I’m currently working on Flutter Projects 
+- 🌱 I’m currently learning Integration of AI in Mobile Development 
+- 📫 How to reach me: fkdevelopers254@gmail.com 
+
+
+
+
+
 
 >What it Offers
 >Book Safaris,Hotels or Rent Cars
