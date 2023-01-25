@@ -9,10 +9,7 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/65674370/214681690-c3a3ae7e-cb7e-488a-9e72-4a3c2e300d17.png">
 </picture>
 
-
-<script src="https://unpkg.com/@codersrank/summary@x.x.x/codersrank-summary.min.js"></script>
-<codersrank-summary username="fkdevelopers254"></codersrank-summary>
-
+ 
 ![Screenshot (38)](https://user-images.githubusercontent.com/65674370/214657338-747ca69d-42d2-412f-ad18-bd067f55a543.png)
 
 
