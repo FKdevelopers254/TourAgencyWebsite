@@ -1,13 +1,12 @@
+
+![github-header-image](https://user-images.githubusercontent.com/65674370/214688023-8d9824db-4066-44f6-be73-203157d1eaed.png)
 # TourAgencyWebsite
 
-![Header]([https://user-images.githubusercontent.com/65674370/214687628-63f900d5-27c4-450a-b104-cacc19af98d4.png)
-![github-header-image](https://user-images.githubusercontent.com/65674370/214688023-8d9824db-4066-44f6-be73-203157d1eaed.png)
-
-
 >What it Offers
--Book Safaris,Hotels or Rent Cars
--View various Safari Packages,Hotels,Cars
--Get to Book for Safari,Hotel or Car
+>Book Safaris,Hotels or Rent Cars
+>View various Safari Packages,Hotels,Cars
+>Get to Book for Safari,Hotel or Car
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/65674370/214657338-747ca69d-42d2-412f-ad18-bd067f55a543.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65674370/214681674-c02cf795-d4bb-4d3d-83cd-66fa7c55b638.png">
